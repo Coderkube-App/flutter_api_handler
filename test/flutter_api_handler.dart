@@ -1,4 +1,4 @@
-import 'package:flutter_api_handler/flutter_http_api_structure.dart';
+import 'package:flutter_api_handler/flutter_api_handler.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 

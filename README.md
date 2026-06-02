@@ -1,4 +1,4 @@
-# flutter_http_api_structure
+# flutter_api_handler
 
 A robust and highly customizable Flutter package for standardizing HTTP API calls. It simplifies making requests, handling responses, managing timeouts, dynamic headers, and token-based authentication.
 
@@ -13,11 +13,11 @@ A robust and highly customizable Flutter package for standardizing HTTP API call
 
 ## Getting started
 
-Add `flutter_http_api_structure` to your `pubspec.yaml`:
+Add `flutter_api_handler` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_http_api_structure: ^0.0.1
+  flutter_api_handler: ^0.0.1
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ Before making any requests, initialize the `HttpManager` with an `ApiConfig`. Yo
 
 #### Using standard `http` engine:
 ```dart
-import 'package:flutter_http_api_structure/flutter_http_api_structure.dart';
+import 'package:flutter_api_handler/flutter_api_handler.dart';
 
 void main() {
   HttpManager.initialize(
