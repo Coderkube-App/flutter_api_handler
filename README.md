@@ -17,7 +17,7 @@ Add `flutter_api_handler` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_api_handler: ^0.0.1
+  flutter_api_handler: ^0.0.2
 ```
 
 ## Usage

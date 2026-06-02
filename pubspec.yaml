@@ -1,6 +1,6 @@
 name: flutter_api_handler
-description: "A robust and customizable Flutter package for standardized HTTP API handling with support for both HTTP and Dio engines, dynamic headers, authentication, multipart requests, logging, and unified response management."
-version: 0.0.1
+description: "A Flutter package for standardized API handling with HTTP and Dio support, authentication, multipart uploads, logging, and unified responses."
+version: 0.0.2
 
 homepage: https://github.com/Coderkube-App
 repository: https://github.com/Coderkube-App/flutter_api_handler

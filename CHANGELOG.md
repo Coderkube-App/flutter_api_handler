@@ -1,3 +1,12 @@
+## 0.0.2
+
+### Improvements
+- Renamed package library exports to match the package name.
+- Updated README documentation and usage examples.
+- Improved package description and metadata for pub.dev compliance.
+- Updated example application.
+- Minor code cleanup and project structure improvements.
+
 ## 0.0.1
 
 ### Initial Release 🎉
